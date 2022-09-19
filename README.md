@@ -5,9 +5,10 @@
 
 ## Dataset
 
-This data set information contains information about bike rides covering a particular area known as San Francisco Bay
-
+This data set(fordgo bike.csv) information contains information about bike rides covering a particular area known as San Francisco Bay
+While the clean_fordgo_bike dataset contains a clean version of the fordgo_bike dataset which I used in the explanatory part II slide deck 
 ## Summary of Findings
+The following findings were carried out by importing necessary libraries,loading the necessary dataset ,gathering the necessary data ,wrangling the dataset to clean errors and carry out exploratory and explanatory analysis  
 The most used bike is bike id with 4794 and the total bike used is 4607
 
 It shows subscribers uses bike more than customers
